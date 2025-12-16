@@ -17,7 +17,7 @@ and mobile designs.
 - JavaScript
 
 ### Live Demo
-🔗 Netlify link
+🔗 https://kilangi-jewellery-homepage.vercel.app
 
 ### Author
 Divya Pardeshi
